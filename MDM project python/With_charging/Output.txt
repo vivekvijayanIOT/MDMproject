@@ -1,0 +1,33 @@
+*******Python Code**********
+	Output for Execution done on :Thu Oct 26 18:07:18 2017
+
+ *** With charging ***			-----*****Result******-----
+
+
+	Total Nodes : 20 		 Nodes visited: 0
+
+	        		Note : 0-Not visited   1-Visited
+
+
+
+		Node 1 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited  
+		Node 2 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 3 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 4 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 5 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 6 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 7 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 8 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 9 :   0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 10 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 11 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 12 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 13 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 14 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 15 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 16 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 17 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 18 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 19 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 20 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Total time taken : 0 sec

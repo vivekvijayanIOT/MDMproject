@@ -1,0 +1,33 @@
+*******Python Code**********
+	Output for Execution done on :Fri Oct 27 17:16:55 2017
+
+ *** Without charging *** 			-----*****Result******-----
+
+
+	Total Nodes : 20 		 Nodes visited: 19
+
+	        		Note : 0-Not visited   1-Visited
+
+
+
+		Node 1 :   1 -->Time: 1 sec 	---> Charge remaining : 55.0%  
+		Node 2 :   1 -->Time: 1 sec 	---> Charge remaining : 10.0%
+		Node 3 :   1 -->Time: 3 sec 	---> Charge remaining : 45.0%
+		Node 4 :   1 -->Time: 6 sec 	---> Charge remaining : 75.0%
+		Node 5 :   1 -->Time: 28 sec 	---> Charge remaining : 65.0%
+		Node 6 :   1 -->Time: 27 sec 	---> Charge remaining : 45.0%
+		Node 7 :   1 -->Time: 31 sec 	---> Charge remaining : 75.0%
+		Node 8 :   1 -->Time: 1 sec 	---> Charge remaining : 45.0%
+		Node 9 :   1 -->Time: 33 sec 	---> Charge remaining : 35.0%
+		Node 10 :  0 -->Time: 0 sec 	---> Charge remaining : Unknown -Not yet visited
+		Node 11 :  1 -->Time: 16 sec 	---> Charge remaining : 65.0%
+		Node 12 :  1 -->Time: 8 sec 	---> Charge remaining : 75.0%
+		Node 13 :  1 -->Time: 5 sec 	---> Charge remaining : 65.0%
+		Node 14 :  1 -->Time: 25 sec 	---> Charge remaining : 55.0%
+		Node 15 :  1 -->Time: 11 sec 	---> Charge remaining : 65.0%
+		Node 16 :  1 -->Time: 24 sec 	---> Charge remaining : 35.0%
+		Node 17 :  1 -->Time: 6 sec 	---> Charge remaining : 75.0%
+		Node 18 :  1 -->Time: 9 sec 	---> Charge remaining : 45.0%
+		Node 19 :  1 -->Time: 18 sec 	---> Charge remaining : 65.0%
+		Node 20 :  1 -->Time: 1 sec 	---> Charge remaining : 10.0%
+		Total time taken : 50 sec

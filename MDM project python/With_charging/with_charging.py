@@ -1,8 +1,10 @@
 #python code: BEACON
-from __future__ import division
 import time
 import math
 from random import randint
+import numpy as nr
+import math
+from decimal import *
 
 
 starttime=time.time()

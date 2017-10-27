@@ -481,6 +481,7 @@ def forward(y,r):
 			discharge_all()		
 			a=("Last postion of ypos: %r  xpos: %d "%(D.ypos,D.xpos))
 			print(a,end="\r")
+			final=times
 		else:
 			final=times
 			break
@@ -506,6 +507,7 @@ def backward(y,r):
 			discharge_all()		
 			a=("Last postion of ypos: %r  xpos: %d "%(D.ypos,D.xpos))
 			print(a,end="\r")
+			final=times
 		else:
 			final=times
 			break

@@ -168,7 +168,7 @@ def searching(x,y,r,times):
 			if N1.charge<30 and n==1:
 				print("\t\tLow Battery...")
 				N1.charger(N1.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 
 	if(N2.check!=1):
@@ -183,7 +183,7 @@ def searching(x,y,r,times):
 			if N2.charge<30 and n==1:
 				print("\t\tLow Battery...")
 				N2.charger(N2.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N3.check!=1):
@@ -198,7 +198,7 @@ def searching(x,y,r,times):
 			if N3.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N3.charger(N3.charge)
-				mfile.write("%% \tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N4.check!=1):
@@ -213,7 +213,7 @@ def searching(x,y,r,times):
 			if N4.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N4.charger(N4.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N5.check!=1):
@@ -243,7 +243,7 @@ def searching(x,y,r,times):
 			if N6.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N6.charger(N6.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N7.check!=1):
@@ -258,7 +258,7 @@ def searching(x,y,r,times):
 			if N7.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N7.charger(N7.charge)
-				mfile.write("%% \tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N8.check!=1):
@@ -273,7 +273,7 @@ def searching(x,y,r,times):
 			if N8.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N8.charger(N8.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N9.check!=1):
@@ -288,7 +288,7 @@ def searching(x,y,r,times):
 			if N9.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N9.charger(N9.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N10.check!=1):
@@ -303,7 +303,7 @@ def searching(x,y,r,times):
 			if N10.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N10.charger(N10.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N11.check!=1):
@@ -318,7 +318,7 @@ def searching(x,y,r,times):
 			if N11.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N11.charger(N11.charge)
-				mfile.write("%% \tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 
@@ -334,7 +334,7 @@ def searching(x,y,r,times):
 			if N12.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N12.charger(N12.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N13.check!=1):
@@ -349,7 +349,7 @@ def searching(x,y,r,times):
 			if N13.charge<30  and n==1: 
 				print("\t\tLow Battery...")
 				N13.charger(N13.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N14.check!=1):
@@ -364,7 +364,7 @@ def searching(x,y,r,times):
 			if N14.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N14.charger(N14.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N15.check!=1):
@@ -379,7 +379,7 @@ def searching(x,y,r,times):
 			if N15.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N15.charger(N15.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N16.check!=1):
@@ -394,7 +394,7 @@ def searching(x,y,r,times):
 			if N16.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N16.charger(N16.charge)
-				mfile.write("%% \tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N17.check!=1):
@@ -409,7 +409,7 @@ def searching(x,y,r,times):
 			if N17.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N17.charger(N17.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N18.check!=1):
@@ -424,7 +424,7 @@ def searching(x,y,r,times):
 			if N18.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N18.charger(N18.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N19.check!=1):
@@ -439,7 +439,7 @@ def searching(x,y,r,times):
 			if N19.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N19.charger(N19.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 		
 	if(N20.check!=1):
@@ -454,7 +454,7 @@ def searching(x,y,r,times):
 			if N20.charge<30  and n==1:
 				print("\t\tLow Battery...")
 				N20.charger(N20.charge)
-				mfile.write("%%\tCharged by Mobile node")
+				mfile.write("\tCharged by Mobile node")
 				times=times+4
 	if(N21.check!=1):
 		N21.update_time(times)

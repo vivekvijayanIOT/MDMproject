@@ -1,0 +1,38 @@
+		Data collected by Mobile node
+
+---------------------------------------------------
+
+
+
+		Node20 Found at [xpos:0][ypos:0]  
+		Node20 -> Charge:100
+
+		Node2 Found at [xpos:70][ypos:10]  
+		Node2 -> Charge:98
+
+		Node8 Found at [xpos:90][ypos:20]  
+		Node8 -> Charge:96
+
+		Node15 Found at [xpos:190][ypos:30]  
+		Node15 -> Charge:91
+
+		Node13 Found at [xpos:120][ypos:40]  
+		Node13 -> Charge:87
+
+		Node1 Found at [xpos:20][ypos:60]  
+		Node1 -> Charge:80
+
+		Node17 Found at [xpos:130][ypos:50]  
+		Node17 -> Charge:75
+
+		Node12 Found at [xpos:150][ypos:60]  
+		Node12 -> Charge:74
+
+		Node4 Found at [xpos:100][ypos:90]  
+		Node4 -> Charge:65
+
+		Node3 Found at [xpos:60][ypos:80]  
+		Node3 -> Charge:64
+
+		Node18 Found at [xpos:140][ypos:100]  
+		Node18 -> Charge:54
